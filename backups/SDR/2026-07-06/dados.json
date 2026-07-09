@@ -1,0 +1,124 @@
+{
+  "setor": "SDR",
+  "dataReferencia": "2026-07-06",
+  "dataReferenciaFim": "2026-07-08",
+  "diasCobertos": [
+    {
+      "nome": "SEGUNDA",
+      "data": "2026-07-06"
+    },
+    {
+      "nome": "TERÇA",
+      "data": "2026-07-07"
+    },
+    {
+      "nome": "QUARTA",
+      "data": "2026-07-08"
+    }
+  ],
+  "periodoLabel": "SEGUNDA a QUARTA (2026-07-06 a 2026-07-08)",
+  "totalNomes": 11,
+  "totalFotos": 1,
+  "efetivo": {
+    "-OvmhmoMoytqtGoHXC40": {
+      "createdAt": "2026-06-23T04:22:33.254Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANNA REIS",
+      "rank": "MAJOR",
+      "status": "🟢🔴🔴"
+    },
+    "-Ovmho3bPNbREw_FMPMS": {
+      "createdAt": "2026-06-23T04:22:38.390Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "AYRES LADEIRA",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🟢🔴"
+    },
+    "-Ovmho6Nq6qT2MJywyMj": {
+      "createdAt": "2026-06-23T04:22:38.567Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "NAYRIELLE ABREU",
+      "rank": "TENENTE",
+      "status": "🟢🔴🔴"
+    },
+    "-OvmhojAUGie2JIqTCS9": {
+      "createdAt": "2026-06-23T04:22:41.114Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "RYAN FELIX",
+      "rank": "SARGENTO MOR",
+      "status": "🔴🔴🔴"
+    },
+    "-OvmxuTtqXDqiHFX14cS": {
+      "createdAt": "2026-06-23T05:33:03.864Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "ELBER LADEIRA",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovmxw2Y3S5MSqE6Zdvb": {
+      "createdAt": "2026-06-23T05:33:10.306Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "KAMILA NETTIE",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OwM5J1V1mKFDnCA3e73": {
+      "createdAt": "2026-06-30T05:55:58.766Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "VINCENZO BOLAT",
+      "rank": "TENENTE",
+      "status": "🔴🔴🔴"
+    },
+    "-OweoXmfvPOTuALS9EFr": {
+      "createdAt": "2026-07-04T01:50:44.917Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR ROSITA",
+      "rank": "RECRUTA",
+      "status": "🟢"
+    },
+    "-OwnUXktqCeyi3oAH5nn": {
+      "createdAt": "2026-07-05T18:15:34.808Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "YANKA NETTIE",
+      "rank": "RECRUTA",
+      "status": "🟢"
+    },
+    "-OwtnikqLB4qtgOsQVdd": {
+      "createdAt": "2026-07-06T23:41:30.098Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BIA PAND",
+      "rank": "RECRUTA",
+      "status": "🟢🔴🔴"
+    },
+    "-OwtnnJinIBXuIQfvK4A": {
+      "createdAt": "2026-07-06T23:41:48.779Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR PANDA",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    }
+  },
+  "geradoEm": "2026-07-09T14:00:26.106Z"
+}

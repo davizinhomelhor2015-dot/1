@@ -1,0 +1,52 @@
+{
+  "setor": "DIP",
+  "dataReferencia": "2026-07-06",
+  "dataReferenciaFim": "2026-07-08",
+  "diasCobertos": [
+    {
+      "nome": "SEGUNDA",
+      "data": "2026-07-06"
+    },
+    {
+      "nome": "TERÇA",
+      "data": "2026-07-07"
+    },
+    {
+      "nome": "QUARTA",
+      "data": "2026-07-08"
+    }
+  ],
+  "periodoLabel": "SEGUNDA a QUARTA (2026-07-06 a 2026-07-08)",
+  "totalNomes": 3,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmglbCPkXwAZQln-lx": {
+      "createdAt": "2026-06-23T04:18:06.172Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Scarlet Zolanski",
+      "rank": "MAJOR GENERAL",
+      "status": "🟡🟡🟢"
+    },
+    "-OvmgoRkWD21lFohyZ2Z": {
+      "createdAt": "2026-06-23T04:18:17.791Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Professora Alessia",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OwQdbl0-NK3oh_i_JtE": {
+      "createdAt": "2026-07-01T03:08:43.545Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Luko Ferreira",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    }
+  },
+  "geradoEm": "2026-07-09T14:00:26.106Z"
+}
