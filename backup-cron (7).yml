@@ -1,0 +1,58 @@
+# ════════════════════════════════════════════════════════════════════
+# BACKUP AUTOMÁTICO — 100% dentro do GitHub, sem precisar configurar
+# NADA além de colocar este arquivo (e o script) no repositório.
+#
+# Disparado externamente pelo cron-job.org (ou manualmente pela aba
+# "Actions"). O script decide sozinho, a cada execução, qual setor já
+# chegou no horário e ainda não tem backup de hoje.
+# ════════════════════════════════════════════════════════════════════
+name: Backup Automático por Setor
+on:
+  workflow_dispatch: {}   # disparado pelo cron-job.org (ou manualmente pela aba "Actions")
+
+permissions:
+  contents: write   # precisa pra poder salvar os arquivos de volta no repo
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixa o repositório
+        uses: actions/checkout@v4
+      - name: Configura o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Roda o backup
+        env:
+          FIREBASE_DB_URL: "https://comando-geral-98c87-default-rtdb.firebaseio.com"
+          FIREBASE_BASE_PATH: "efetivo_novo"
+        run: |
+          # Acha o script de backup automaticamente, tolerando o nome
+          # (backup.mjs, backup_final.mjs, etc.). Procura primeiro na pasta
+          # padrão e, se não achar, em qualquer lugar do repositório.
+          FILE=""
+          for f in .github/scripts/backup.mjs .github/scripts/backup_final.mjs; do
+            if [ -f "$f" ]; then FILE="$f"; break; fi
+          done
+          if [ -z "$FILE" ]; then
+            FILE=$(find . -type f -name 'backup*.mjs' -not -path './node_modules/*' | head -1)
+          fi
+          if [ -z "$FILE" ]; then
+            echo "❌ Não encontrei nenhum arquivo backup*.mjs no repositório."
+            echo "   Coloque o script em .github/scripts/ (nome sugerido: backup.mjs)."
+            exit 1
+          fi
+          echo "▶ Rodando: $FILE"
+          node "$FILE"
+      - name: Sobe os arquivos gerados (se houve algum backup novo)
+        run: |
+          git config user.name "backup-automatico[bot]"
+          git config user.email "actions@github.com"
+          git add backups/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "🗓 Backup automático $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" || true
+            git push
+          else
+            echo "Nada novo pra commitar desta vez."
+          fi
