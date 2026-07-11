@@ -1,0 +1,57 @@
+{
+  "setor": "DIP",
+  "dataReferencia": "2026-07-09",
+  "dataReferenciaFim": "2026-07-10",
+  "diasCobertos": [
+    {
+      "nome": "QUINTA",
+      "data": "2026-07-09"
+    },
+    {
+      "nome": "SEXTA",
+      "data": "2026-07-10"
+    }
+  ],
+  "periodoLabel": "QUINTA a SEXTA (2026-07-09 a 2026-07-10)",
+  "totalNomes": 4,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmglbCPkXwAZQln-lx": {
+      "createdAt": "2026-06-23T04:18:06.172Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Scarlet Zolanski",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OvmgoRkWD21lFohyZ2Z": {
+      "createdAt": "2026-06-23T04:18:17.791Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Professora Alessia",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟡🟢"
+    },
+    "-OwQdbl0-NK3oh_i_JtE": {
+      "createdAt": "2026-07-01T03:08:43.545Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Luko Ferreira",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OxBfbzEVhN23bjK2QW9": {
+      "createdAt": "2026-07-10T15:38:52.338Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Lara Vip",
+      "rank": "RECRUTA",
+      "status": "🟢🟢"
+    }
+  },
+  "geradoEm": "2026-07-11T14:00:24.093Z"
+}

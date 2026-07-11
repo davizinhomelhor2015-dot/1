@@ -1,16 +1,20 @@
 {
   "setor": "BPM1",
   "dataReferencia": "2026-07-09",
-  "dataReferenciaFim": "2026-07-09",
+  "dataReferenciaFim": "2026-07-10",
   "diasCobertos": [
     {
       "nome": "QUINTA",
       "data": "2026-07-09"
+    },
+    {
+      "nome": "SEXTA",
+      "data": "2026-07-10"
     }
   ],
-  "periodoLabel": "QUINTA (2026-07-09)",
-  "totalNomes": 30,
-  "totalFotos": 0,
+  "periodoLabel": "QUINTA a SEXTA (2026-07-09 a 2026-07-10)",
+  "totalNomes": 27,
+  "totalFotos": 6,
   "efetivo": {
     "-OuxrM40ZHwgAC04Bni3": {
       "createdAt": "2026-06-12T22:04:33.337Z",
@@ -46,7 +50,7 @@
       "promo": false,
       "qra": "KAEMON HSGDF",
       "rank": "CAPITÃO",
-      "status": "🔴🟢🟢"
+      "status": "🟢🟢🟢"
     },
     "-OuxrMSUCqvU-pzK1Vip": {
       "createdAt": "2026-06-12T22:04:34.903Z",
@@ -55,7 +59,7 @@
       "promo": false,
       "qra": "DONAH FLORINDA",
       "rank": "SARGENTO MOR",
-      "status": "🟢🟢🔴"
+      "status": "🔴🟢🔴"
     },
     "-OuxrMerLx4RLfk4KmTb": {
       "createdAt": "2026-06-12T22:04:35.759Z",
@@ -64,15 +68,16 @@
       "promo": false,
       "qra": "JASMINDO SMITHS",
       "rank": "CAPITÃO",
-      "status": "🟢🟢🟢"
+      "status": "🟢🟡🟢"
     },
     "-OuxrMhXfv9Nui0MZYEh": {
       "createdAt": "2026-06-12T22:04:35.930Z",
       "ferias": false,
       "lider": false,
       "promo": false,
+      "promovidoSgtMorEm": "2026-07-10T21:47:47.972Z",
       "qra": "CABELINHO SLV",
-      "rank": "1°SARGENTO",
+      "rank": "SARGENTO MOR",
       "status": "🟢🟢🟢"
     },
     "-Ov-_QwIt3JQjAt6LtTG": {
@@ -82,7 +87,7 @@
       "promo": false,
       "qra": "Luís Inácio",
       "rank": "1°SARGENTO",
-      "status": "🔴🟢🟢"
+      "status": "🟡🟢🟢"
     },
     "-Ovzk1hM1iFvzzkbcEh4": {
       "createdAt": "2026-06-25T17:07:24.028Z",
@@ -91,7 +96,7 @@
       "promo": false,
       "qra": "Anderson Cardoso",
       "rank": "SARGENTO MOR",
-      "status": "🔴🟢🟢"
+      "status": "🟢🟢🟢"
     },
     "-Ow5Akw8aHyC6k8TYscT": {
       "adicionadoEm": "2026-06-26T23:06:14.617Z",
@@ -103,7 +108,7 @@
       "promo": false,
       "qra": "JONASCLATON SANTOS",
       "rank": "SARGENTO MOR",
-      "status": "🔴🟢🟢",
+      "status": "🟢🟢🟢",
       "turnoOrigem": "BPM1"
     },
     "-Ow5BMRrqkHkj_cck_VG": {
@@ -126,7 +131,7 @@
       "promo": false,
       "qra": "copque Mateus",
       "rank": "SARGENTO MOR",
-      "status": "🔴🟢🟢"
+      "status": "🟢🟢🟢"
     },
     "-Ow5CkVcap1trYijW_VK": {
       "createdAt": "2026-06-26T23:14:57.144Z",
@@ -135,7 +140,7 @@
       "promo": false,
       "qra": "Coalax clx",
       "rank": "1°SARGENTO",
-      "status": "🟢🟡🟢"
+      "status": "🟢🟢🟢"
     },
     "-Ow7rl8_4YL9gaue8Qpb": {
       "adicionadoEm": "2026-06-27T11:37:44.023Z",
@@ -163,15 +168,6 @@
       "status": "🔴🔴🔴",
       "turnoOrigem": "BPM1"
     },
-    "-Ow9kTftVXLkb0wMaMrY": {
-      "createdAt": "2026-06-27T20:25:07.534Z",
-      "ferias": false,
-      "lider": false,
-      "promo": false,
-      "qra": "Don Guilherme",
-      "rank": "1°SARGENTO",
-      "status": "🔴🔴🔴"
-    },
     "-OwFVSyBJ-YN7ofxl8kl": {
       "createdAt": "2026-06-28T23:12:54.281Z",
       "ferias": false,
@@ -179,7 +175,7 @@
       "promo": false,
       "qra": "Lucasssilva primeiro",
       "rank": "TENENTE",
-      "status": "🟢🟢🔴"
+      "status": "🔴🟢🔴"
     },
     "-OwIGCFcq_4ofT0p5r4f": {
       "createdAt": "2026-06-29T12:05:05.056Z",
@@ -200,7 +196,7 @@
       "promo": false,
       "qra": "WELL CAETANO",
       "rank": "1°SARGENTO",
-      "status": "🔴🟢🔴",
+      "status": "🔴🔴🔴",
       "turnoOrigem": "BPM1"
     },
     "-Owc7glNtZoYeIbEwTvZ": {
@@ -212,15 +208,6 @@
       "rank": "1°SARGENTO",
       "status": "🟢🟢🟢"
     },
-    "-Owjnqa7UhebB0ckPRWX": {
-      "createdAt": "2026-07-05T01:05:49.881Z",
-      "ferias": false,
-      "lider": false,
-      "promo": false,
-      "qra": "RIGEL RASHAWN",
-      "rank": "SARGENTO",
-      "status": "🔴🔴🔴"
-    },
     "-OwtIp__kzOc8jsK5rhT": {
       "createdAt": "2026-07-06T21:22:08.266Z",
       "ferias": false,
@@ -228,7 +215,7 @@
       "promo": false,
       "qra": "Alexandre Lorenzo",
       "rank": "SARGENTO",
-      "status": "🔴🟢🟢"
+      "status": "🟢🟢🟢"
     },
     "-OwtJIfwEMLQ_ypsmgfr": {
       "createdAt": "2026-07-06T21:24:11.554Z",
@@ -237,16 +224,7 @@
       "promo": false,
       "qra": "Senhor Wilson",
       "rank": "SARGENTO",
-      "status": "🔴🟢🟢"
-    },
-    "-OwtJMit7o0ksaeMov5K": {
-      "createdAt": "2026-07-06T21:24:28.127Z",
-      "ferias": false,
-      "lider": false,
-      "promo": false,
-      "qra": "Duh Silva",
-      "rank": "SOLDADO",
-      "status": "🔴🔴🔴"
+      "status": "🟡🟢🟢"
     },
     "-Ox16LzRMjuCvjlRk6i_": {
       "createdAt": "2026-07-08T14:24:12.545Z",
@@ -263,8 +241,8 @@
       "lider": false,
       "promo": false,
       "qra": "Kira abençoado",
-      "rank": "RECRUTA",
-      "status": "🔴"
+      "rank": "SARGENTO",
+      "status": "🟢🔴"
     },
     "-Ox2zXtcr_d5MoS1w1yQ": {
       "createdAt": "2026-07-08T23:09:18.393Z",
@@ -272,7 +250,7 @@
       "lider": false,
       "promo": false,
       "qra": "Patrão terrorista",
-      "rank": "RECRUTA",
+      "rank": "SARGENTO",
       "status": "🔴"
     },
     "-Ox2zt-oOvPcqmARwzyX": {
@@ -282,7 +260,7 @@
       "promo": false,
       "qra": "Homem primata",
       "rank": "RECRUTA",
-      "status": "🔴"
+      "status": "🟢🔴"
     },
     "-Ox3-62Po0MUmNuszNyb": {
       "createdAt": "2026-07-08T23:11:46.475Z",
@@ -300,8 +278,8 @@
       "promo": false,
       "qra": "Delton marcelino",
       "rank": "RECRUTA",
-      "status": "🔴🔴"
+      "status": "🟢🔴"
     }
   },
-  "geradoEm": "2026-07-10T14:00:24.012Z"
+  "geradoEm": "2026-07-11T14:00:24.093Z"
 }
