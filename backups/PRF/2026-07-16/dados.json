@@ -1,0 +1,363 @@
+{
+  "setor": "PRF",
+  "dataReferencia": "2026-07-16",
+  "dataReferenciaFim": "2026-07-17",
+  "diasCobertos": [
+    {
+      "nome": "QUINTA",
+      "data": "2026-07-16"
+    },
+    {
+      "nome": "SEXTA",
+      "data": "2026-07-17"
+    }
+  ],
+  "periodoLabel": "QUINTA a SEXTA (2026-07-16 a 2026-07-17)",
+  "totalNomes": 36,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OwGX5Vt_CLlQh1py-oF": {
+      "createdAt": "2026-06-29T03:59:40.258Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "HUGO PK",
+      "rank": "MAJOR GENERAL",
+      "status": "🔴🔴🟢"
+    },
+    "-OwGX5Z5qW6kBk0Lwp-p": {
+      "createdAt": "2026-06-29T03:59:40.462Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "TORRES MARQUES",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🔴"
+    },
+    "-OwGX5bIsz9bZtpN4mxp": {
+      "createdAt": "2026-06-29T03:59:40.668Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRA DRESSA",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🔴"
+    },
+    "-OwGX5eS6Ntt7KbMJvvo": {
+      "createdAt": "2026-06-29T03:59:40.870Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ESCOBAR XXXX",
+      "rank": "MAJOR",
+      "status": "🔴🔴🔴"
+    },
+    "-OwGX5hqJwM4m980KWJ8": {
+      "createdAt": "2026-06-29T03:59:41.086Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "DIEGO BLECK",
+      "rank": "MAJOR",
+      "status": "🟢🟢🔴"
+    },
+    "-OwGX5ky2ogUuIHx0_ws": {
+      "createdAt": "2026-06-29T03:59:41.287Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "EDNALDO SILVA",
+      "rank": "MAJOR",
+      "status": "🟢🟢🔴"
+    },
+    "-OwGX5uZybQckkV9HOoj": {
+      "createdAt": "2026-06-29T03:59:41.901Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "MK YAUDIM",
+      "rank": "1°SARGENTO",
+      "status": "🟢🔴🔴"
+    },
+    "-OwGX604DhEdfC7-61Ze": {
+      "createdAt": "2026-06-29T03:59:42.318Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "JONNY GANZAS",
+      "rank": "1°SARGENTO",
+      "status": "🟢🔴🔴"
+    },
+    "-OwGX63EwVW2ZSog9kD5": {
+      "createdAt": "2026-06-29T03:59:42.520Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "KENAI YAUDIM",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🔴"
+    },
+    "-OwGX6Cr1FWZAHUFUfDC": {
+      "createdAt": "2026-06-29T03:59:43.136Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "REAL SMOKEE",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🔴"
+    },
+    "-OwGX6JHpntbc320zOWh": {
+      "createdAt": "2026-06-29T03:59:43.547Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "LEWANDOWISK SILVA",
+      "rank": "SARGENTO MOR",
+      "status": "🔴🔴🔴"
+    },
+    "-OwGX6SrlrZrj_tmhs89": {
+      "createdAt": "2026-06-29T03:59:44.160Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DELCO COFFIN",
+      "rank": "1°SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OwGX6W7nLRr2ms621ho": {
+      "createdAt": "2026-06-29T03:59:44.369Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DEVID SX",
+      "rank": "SARGENTO",
+      "status": "🟢🔴🔴"
+    },
+    "-OwGX6d9LKDFgdQoPmVD": {
+      "createdAt": "2026-06-29T03:59:44.883Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "MAICO SILVA",
+      "rank": "1°SARGENTO",
+      "status": "🔴🟢🔴"
+    },
+    "-OwVta1MrGU9NoMAFRu8": {
+      "createdAt": "2026-07-02T03:36:36.850Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "RAMON GAMES",
+      "rank": "TENENTE",
+      "status": "🟢🟢🔴"
+    },
+    "-OwVta6a-z3vtc-Spxnf": {
+      "createdAt": "2026-07-02T03:36:37.186Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "FIELDING JULI",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-OwVtaEISIm7B1bnbSP1": {
+      "createdAt": "2026-07-02T03:36:37.679Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR MATHEUS",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🟢🔴"
+    },
+    "-Owpc6K64tZ5IL39y5dL": {
+      "createdAt": "2026-07-06T04:12:14.707Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ZEQUINHA VDG",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-Owpe1YZKEv4HCu495MT": {
+      "createdAt": "2026-07-06T04:20:40.845Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "HELOISADIABA NETTIE",
+      "rank": "SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-OwwEisHSRMK5-SA8zhq": {
+      "createdAt": "2026-07-07T11:03:05.890Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SAMUEL MESQUITA",
+      "rank": "1°SARGENTO",
+      "status": "🟢🔴🔴"
+    },
+    "-Owz0ARysegDjFp8mvNZ": {
+      "createdAt": "2026-07-07T23:58:20.567Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "CAIN MONTCLAIR",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🔴🔴"
+    },
+    "-OwzYMl0OnuehwO9LHng": {
+      "createdAt": "2026-07-08T02:27:44.764Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "KAIOBAA SANTOS",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-Ox3h9-bRN4ZeGcmbWeq": {
+      "createdAt": "2026-07-09T02:28:35.958Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SEGURANÇA NANDINHO",
+      "rank": "SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-Ox3hN-WUzN4qDkOKSES": {
+      "createdAt": "2026-07-09T02:29:33.297Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DAFURIA CRV",
+      "rank": "SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-Ox7CdnCO_K7PDf0hqFl": {
+      "createdAt": "2026-07-09T18:49:26.445Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BIDU PARAIBANO",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-Ox8ck1L_Hi8oY4hryhw": {
+      "createdAt": "2026-07-10T01:27:27.124Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GABRIELL JOMAR",
+      "rank": "1°SARGENTO",
+      "status": "🟢🔴🔴"
+    },
+    "-Ox8d7wv2wseSwNuVF53": {
+      "createdAt": "2026-07-10T01:29:09.170Z",
+      "ferias": false,
+      "lider": false,
+      "promo": true,
+      "qra": "ALOK LIMA",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-Ox8dE8yfOkvQywsbSbB": {
+      "createdAt": "2026-07-10T01:29:34.584Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "MIKAEL VASCONCELOS",
+      "rank": "1°SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxIy1jbPBgXeI8Yf08C": {
+      "createdAt": "2026-07-12T01:36:40.912Z",
+      "discord": "@luadixie",
+      "farda": true,
+      "fardaEm": "2026-07-12T02:36:50.099Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRTA NYX",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-OxIy2m8uMBycZvjTEtq": {
+      "createdAt": "2026-07-12T01:36:45.170Z",
+      "discord": "@luadixie",
+      "farda": true,
+      "fardaEm": "2026-07-12T01:36:45.170Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "AKAME MONTCLAIR",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-OxRUS--zB6uvOckwTfR": {
+      "createdAt": "2026-07-13T17:19:36.925Z",
+      "discord": "@alanjeffersom",
+      "farda": true,
+      "fardaEm": "2026-07-13T18:31:11.238Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BRECK FERREIRA",
+      "rank": "SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxSOCF5StB5D8GUy0Qf": {
+      "createdAt": "2026-07-13T21:31:56.773Z",
+      "discord": "@majorsecchin_47044",
+      "farda": true,
+      "fardaEm": "2026-07-13T22:18:06.206Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "MAJOR SECCHIN",
+      "rank": "SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxSOCSGidRMuw3LkUzz": {
+      "createdAt": "2026-07-13T21:31:57.616Z",
+      "discord": "@nicohammadi",
+      "farda": true,
+      "fardaEm": "2026-07-13T22:18:07.147Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "NICO HAMMADI",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-OxXFLykbxRD_x1eAMZo": {
+      "createdAt": "2026-07-14T20:11:23.533Z",
+      "discord": "@jardelrogerio.",
+      "farda": true,
+      "fardaEm": "2026-07-14T20:11:23.533Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "IRAVIN BOWEROVSKI",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-Ox_zlZfPPdTBUKoXpH_": {
+      "createdAt": "2026-07-15T13:37:22.698Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ZEZINHO VERNER",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-OxbdMcuFyXu1cOcRZtD": {
+      "createdAt": "2026-07-15T21:18:46.222Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "YURII JRR",
+      "rank": "SARGENTO",
+      "status": "🔴🔴🔴"
+    }
+  },
+  "geradoEm": "2026-07-17T14:00:23.599Z"
+}
