@@ -1,0 +1,61 @@
+{
+  "setor": "DIP",
+  "dataReferencia": "2026-07-16",
+  "dataReferenciaFim": "2026-07-18",
+  "diasCobertos": [
+    {
+      "nome": "QUINTA",
+      "data": "2026-07-16"
+    },
+    {
+      "nome": "SEXTA",
+      "data": "2026-07-17"
+    },
+    {
+      "nome": "SÁBADO",
+      "data": "2026-07-18"
+    }
+  ],
+  "periodoLabel": "QUINTA a SÁBADO (2026-07-16 a 2026-07-18)",
+  "totalNomes": 4,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmglbCPkXwAZQln-lx": {
+      "createdAt": "2026-06-23T04:18:06.172Z",
+      "ferias": true,
+      "lider": false,
+      "promo": false,
+      "qra": "Scarlet Zolanski",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢"
+    },
+    "-OvmgoRkWD21lFohyZ2Z": {
+      "createdAt": "2026-06-23T04:18:17.791Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Professora Alessia",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟡🟢"
+    },
+    "-OwQdbl0-NK3oh_i_JtE": {
+      "createdAt": "2026-07-01T03:08:43.545Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Luko Ferreira",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟡🟢"
+    },
+    "-OxmUhVpAY2NKz9FMUFT": {
+      "createdAt": "2026-07-17T23:52:23.429Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Da Furiaaa",
+      "rank": "RECRUTA",
+      "status": "🟢🟢"
+    }
+  },
+  "geradoEm": "2026-07-18T14:00:19.526Z"
+}

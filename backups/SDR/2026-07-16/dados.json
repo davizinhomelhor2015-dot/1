@@ -1,0 +1,97 @@
+{
+  "setor": "SDR",
+  "dataReferencia": "2026-07-16",
+  "dataReferenciaFim": "2026-07-18",
+  "diasCobertos": [
+    {
+      "nome": "QUINTA",
+      "data": "2026-07-16"
+    },
+    {
+      "nome": "SEXTA",
+      "data": "2026-07-17"
+    },
+    {
+      "nome": "SÁBADO",
+      "data": "2026-07-18"
+    }
+  ],
+  "periodoLabel": "QUINTA a SÁBADO (2026-07-16 a 2026-07-18)",
+  "totalNomes": 8,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmhmoMoytqtGoHXC40": {
+      "createdAt": "2026-06-23T04:22:33.254Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANNA REIS",
+      "rank": "MAJOR",
+      "status": "🔴🟢🟢"
+    },
+    "-Ovmho3bPNbREw_FMPMS": {
+      "createdAt": "2026-06-23T04:22:38.390Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRTA SANTORINI",
+      "rank": "TENENTE",
+      "status": "🔴🟢🟢"
+    },
+    "-OvmxuTtqXDqiHFX14cS": {
+      "createdAt": "2026-06-23T05:33:03.864Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR SANTORINI",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovmxw2Y3S5MSqE6Zdvb": {
+      "createdAt": "2026-06-23T05:33:10.306Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "KAMILA NETTIE",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OwM5J1V1mKFDnCA3e73": {
+      "createdAt": "2026-06-30T05:55:58.766Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "VINCENZO BOLAT",
+      "rank": "CAPITÃO",
+      "status": "🔴🟢🟢"
+    },
+    "-OweoXmfvPOTuALS9EFr": {
+      "createdAt": "2026-07-04T01:50:44.917Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR ROSITA",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🟢🟢"
+    },
+    "-OwtnikqLB4qtgOsQVdd": {
+      "createdAt": "2026-07-06T23:41:30.098Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BIA PAND",
+      "rank": "1°SARGENTO",
+      "status": "🟡🟢🟢"
+    },
+    "-OxfTbja887r1hywvOQO": {
+      "createdAt": "2026-07-16T15:10:17.147Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ABEL DEIVID",
+      "rank": "1°SARGENTO",
+      "status": "🟢"
+    }
+  },
+  "geradoEm": "2026-07-18T14:00:19.526Z"
+}
