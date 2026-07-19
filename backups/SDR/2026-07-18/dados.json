@@ -1,0 +1,80 @@
+{
+  "setor": "SDR",
+  "dataReferencia": "2026-07-18",
+  "dataReferenciaFim": "2026-07-19",
+  "diasCobertos": [
+    {
+      "nome": "SÁBADO",
+      "data": "2026-07-18"
+    }
+  ],
+  "periodoLabel": "SÁBADO (2026-07-18)",
+  "totalNomes": 7,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmhmoMoytqtGoHXC40": {
+      "createdAt": "2026-06-23T04:22:33.254Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANNA REIS",
+      "rank": "MAJOR",
+      "status": "🔴🟢🟢"
+    },
+    "-Ovmho3bPNbREw_FMPMS": {
+      "createdAt": "2026-06-23T04:22:38.390Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRTA SANTORINI",
+      "rank": "TENENTE",
+      "status": "🟢🟢🟢"
+    },
+    "-OvmxuTtqXDqiHFX14cS": {
+      "createdAt": "2026-06-23T05:33:03.864Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR SANTORINI",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovmxw2Y3S5MSqE6Zdvb": {
+      "createdAt": "2026-06-23T05:33:10.306Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "KAMILA NETTIE",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OwM5J1V1mKFDnCA3e73": {
+      "createdAt": "2026-06-30T05:55:58.766Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "VINCENZO BOLAT",
+      "rank": "CAPITÃO",
+      "status": "🔴🟢🟢"
+    },
+    "-OweoXmfvPOTuALS9EFr": {
+      "createdAt": "2026-07-04T01:50:44.917Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR ROSITA",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🟢🟢"
+    },
+    "-OxumnDd17AF7nT1BEBb": {
+      "createdAt": "2026-07-19T14:32:45.262Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "LARY VIP",
+      "rank": "RECRUTA",
+      "status": "🟢🟢"
+    }
+  },
+  "geradoEm": "2026-07-19T20:50:17.739Z"
+}
