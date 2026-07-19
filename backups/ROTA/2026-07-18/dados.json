@@ -1,0 +1,237 @@
+{
+  "setor": "ROTA",
+  "dataReferencia": "2026-07-18",
+  "dataReferenciaFim": "2026-07-19",
+  "diasCobertos": [
+    {
+      "nome": "SÁBADO",
+      "data": "2026-07-18"
+    },
+    {
+      "nome": "DOMINGO",
+      "data": "2026-07-19"
+    }
+  ],
+  "periodoLabel": "SÁBADO a DOMINGO (2026-07-18 a 2026-07-19)",
+  "totalNomes": 24,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OwpI9S5YRRGJ1M51rte": {
+      "createdAt": "2026-07-06T02:40:43.921Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "EDUARDA FARIA",
+      "rank": "MAJOR GENERAL",
+      "status": "🟡🟢🟢"
+    },
+    "-OwpI9Ubrsvi1Xhh_O5B": {
+      "createdAt": "2026-07-06T02:40:44.083Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "MATEUS FARIA",
+      "rank": "MAJOR GENERAL",
+      "status": "🟡🟡🟢"
+    },
+    "-OwpI9ZlHnOsb8jPuZcR": {
+      "createdAt": "2026-07-06T02:40:44.413Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANDRES MATTE",
+      "rank": "CAPITÃO",
+      "status": "🔴🔴🟢"
+    },
+    "-OwpI9bDSAECo50g9f9l": {
+      "createdAt": "2026-07-06T02:40:44.570Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "BOSS MONCLAIR",
+      "rank": "MAJOR GENERAL",
+      "status": "🟡🟡🟢"
+    },
+    "-OwpI9g8vVkBw6wYogxi": {
+      "createdAt": "2026-07-06T02:40:44.884Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DECKER EKREM",
+      "rank": "MAJOR",
+      "status": "🔴🔴🟢"
+    },
+    "-OwpI9icfCKeXSPnQCVc": {
+      "createdAt": "2026-07-06T02:40:45.044Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "ETHAN HUNT",
+      "rank": "CORONEL",
+      "status": "🟡🟡🟡"
+    },
+    "-OwpI9lfG6XV5Iriys20": {
+      "createdAt": "2026-07-06T02:40:45.239Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "NANDO BARBER",
+      "rank": "CAPITÃO",
+      "status": "🟢🔴🟢"
+    },
+    "-OwpI9o9yKrPRyvKdAmA": {
+      "createdAt": "2026-07-06T02:40:45.398Z",
+      "ferias": true,
+      "lider": false,
+      "promo": false,
+      "qra": "RUFINO SARACURA",
+      "rank": "CAPITÃO",
+      "status": "🔴🔴🔴"
+    },
+    "-OwpI9qiiX0mRHyPlf48": {
+      "createdAt": "2026-07-06T02:40:45.561Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "TIANA ALVES",
+      "rank": "CORONEL",
+      "status": "🔴🔴🟢"
+    },
+    "-OwpI9vhVVFvKtMVifzw": {
+      "createdAt": "2026-07-06T02:40:45.881Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANGEL TORRANCE",
+      "rank": "CAPITÃO",
+      "status": "🔴🟢🔴"
+    },
+    "-OwpI9y8j8uU8He1OklV": {
+      "createdAt": "2026-07-06T02:40:46.037Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DUARTE ANUNNAKI",
+      "rank": "CAPITÃO",
+      "status": "🔴🔴🔴"
+    },
+    "-OwpIA2P26jEQn4sliNw": {
+      "createdAt": "2026-07-06T02:40:46.374Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANTONY COPELAND",
+      "rank": "SARGENTO MOR",
+      "status": "🔴🔴🟢"
+    },
+    "-OwpIA4svzltVVuOQdLr": {
+      "createdAt": "2026-07-06T02:40:46.532Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Gabii Stark",
+      "rank": "TENENTE",
+      "status": "🟢🟢🔴"
+    },
+    "-OwpIA9l_DGKZO7XJeNQ": {
+      "createdAt": "2026-07-06T02:40:46.845Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SILVES CAMACHO",
+      "rank": "TENENTE",
+      "status": "🔴🔴🟢"
+    },
+    "-OwpIAXDFOycRmFCckYO": {
+      "createdAt": "2026-07-06T02:40:48.346Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "RAFAEL SK",
+      "rank": "1°SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-Oww-X7Y--kvTgSq0jtX": {
+      "createdAt": "2026-07-07T09:56:40.687Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "JEFF BRAUN",
+      "rank": "1°SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OwyJcZdYi5xjlU_qD6f": {
+      "createdAt": "2026-07-07T20:43:44.769Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "LUANE AYSHALOKS",
+      "rank": "1°SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxCNUsCSjufUXUUwxsD": {
+      "createdAt": "2026-07-10T18:54:55.654Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANDRE GUEDES",
+      "rank": "SOLDADO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxCOKzGBlcIU0USxX0O": {
+      "createdAt": "2026-07-10T18:58:37.593Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DOCA PEZAO",
+      "rank": "1°SARGENTO",
+      "status": "🟢🔴🔴"
+    },
+    "-OxDbMAvrlLVER2r90Jh": {
+      "createdAt": "2026-07-11T00:39:29.350Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Sr Adalberto",
+      "rank": "SOLDADO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxTTb_m37-5g5S4lXXW": {
+      "createdAt": "2026-07-14T02:35:12.706Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "VÉSPERA MLS",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🟢"
+    },
+    "-OxYS9DAGW-_lX6jhLPg": {
+      "createdAt": "2026-07-15T01:46:56.394Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "JAMIN FERDINANDO",
+      "rank": "SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxqON6YJ7tMK5QiWtct": {
+      "createdAt": "2026-07-18T18:03:11.770Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "EUMRM CAIKE",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-OxqOQWH7kmpWwu6GPhP": {
+      "createdAt": "2026-07-18T18:03:25.704Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BROK SMAN",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    }
+  },
+  "geradoEm": "2026-07-19T14:00:19.502Z"
+}
