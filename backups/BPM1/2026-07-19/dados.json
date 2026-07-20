@@ -1,0 +1,228 @@
+{
+  "setor": "BPM1",
+  "dataReferencia": "2026-07-19",
+  "dataReferenciaFim": "2026-07-20",
+  "diasCobertos": [
+    {
+      "nome": "DOMINGO",
+      "data": "2026-07-19"
+    }
+  ],
+  "periodoLabel": "DOMINGO (2026-07-19)",
+  "totalNomes": 21,
+  "totalFotos": 6,
+  "efetivo": {
+    "-OuxrM40ZHwgAC04Bni3": {
+      "createdAt": "2026-06-12T22:04:33.337Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "RAMIRO PATEL",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OuxrM6xoF4-vx9gmMj8": {
+      "createdAt": "2026-06-12T22:04:33.525Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Coronel Mikael",
+      "rank": "CORONEL",
+      "status": "🟢🟢🟢"
+    },
+    "-OuxrMKR4dPqQR-cPi3X": {
+      "createdAt": "2026-06-12T22:04:34.388Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "KAEMON HSGDF",
+      "rank": "MAJOR",
+      "status": "🟢🟢🟢"
+    },
+    "-OuxrMSUCqvU-pzK1Vip": {
+      "createdAt": "2026-06-12T22:04:34.903Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DONAH FLORINDA",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🔴🟡"
+    },
+    "-OuxrMhXfv9Nui0MZYEh": {
+      "createdAt": "2026-06-12T22:04:35.930Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "promovidoSgtMorEm": "2026-07-10T21:47:47.972Z",
+      "qra": "CABELINHO SLV",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🟢🔴"
+    },
+    "-Ov-_QwIt3JQjAt6LtTG": {
+      "createdAt": "2026-06-13T10:44:58.996Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Luís Inácio",
+      "rank": "1°SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-Ovzk1hM1iFvzzkbcEh4": {
+      "createdAt": "2026-06-25T17:07:24.028Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Anderson Cardoso",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢"
+    },
+    "-Ow5Akw8aHyC6k8TYscT": {
+      "adicionadoEm": "2026-06-26T23:06:14.617Z",
+      "createdAt": "2026-06-26T23:06:14.617Z",
+      "discord": "jonasclayton_2026",
+      "farda": true,
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "JONASCLATON SANTOS",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢",
+      "turnoOrigem": "BPM1"
+    },
+    "-Ow5BMRrqkHkj_cck_VG": {
+      "adicionadoEm": "2026-06-26T23:08:52.360Z",
+      "createdAt": "2026-06-26T23:08:52.360Z",
+      "discord": "mateussilva0829",
+      "farda": true,
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "MATEUSSLV",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢",
+      "turnoOrigem": "BPM1"
+    },
+    "-Ow5COqF5ePyzPkFz3MV": {
+      "createdAt": "2026-06-26T23:13:24.320Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "copque Mateus",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢"
+    },
+    "-Ow5CkVcap1trYijW_VK": {
+      "createdAt": "2026-06-26T23:14:57.144Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Coalax clx",
+      "rank": "1°SARGENTO",
+      "status": "🔴🟢🟢"
+    },
+    "-Owc7glNtZoYeIbEwTvZ": {
+      "createdAt": "2026-07-03T13:19:57.583Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "promovidoProvaEm": "2026-07-18T22:25:04.890Z",
+      "promovidoProvaTipo": "ten",
+      "qra": "Daniel ramon",
+      "rank": "TENENTE",
+      "status": "🟢🟢🟢"
+    },
+    "-OwtIp__kzOc8jsK5rhT": {
+      "createdAt": "2026-07-06T21:22:08.266Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Alexandre Lorenzo",
+      "rank": "SARGENTO",
+      "status": "🔴🔴🔴"
+    },
+    "-OwtJIfwEMLQ_ypsmgfr": {
+      "createdAt": "2026-07-06T21:24:11.554Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "promovidoProvaEm": "2026-07-18T22:25:09.857Z",
+      "promovidoProvaTipo": "ten",
+      "qra": "Senhor Wilson",
+      "rank": "TENENTE",
+      "status": "🟢🟢🟢"
+    },
+    "-Ox2zt-oOvPcqmARwzyX": {
+      "createdAt": "2026-07-08T23:10:48.964Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Jorjão Metralha",
+      "rank": "SOLDADO",
+      "status": "🟢🟡"
+    },
+    "-Ox3-62Po0MUmNuszNyb": {
+      "createdAt": "2026-07-08T23:11:46.475Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Hector loyd",
+      "rank": "RECRUTA",
+      "status": "🔴🔴🔴"
+    },
+    "-OxSOC4D_kyE_EAIi9Ny": {
+      "createdAt": "2026-07-13T21:31:56.076Z",
+      "discord": "@davi075678",
+      "farda": true,
+      "fardaEm": "2026-07-13T23:53:25.000Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DAVI GATO",
+      "rank": "RECRUTA",
+      "status": "🟢🟢🔴"
+    },
+    "-OxWadVblnGKE9o49pAr": {
+      "createdAt": "2026-07-14T17:09:09.373Z",
+      "discord": "@georgekennedy0243_32733",
+      "farda": true,
+      "fardaEm": "2026-07-15T01:24:09.923Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GEORGE KENNEDY",
+      "rank": "RECRUTA",
+      "status": "🟢🔴🔴"
+    },
+    "-OxYOdicMUuv6UjajD9u": {
+      "createdAt": "2026-07-15T01:31:36.039Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "RLK Araújo",
+      "rank": "SARGENTO",
+      "status": "🟢🟢🔴"
+    },
+    "-OxgJCIk7Z2d1S3aooMH": {
+      "createdAt": "2026-07-16T19:04:24.075Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Nobre kg",
+      "rank": "RECRUTA",
+      "status": "🟢🟢"
+    },
+    "-OxgwmxtRDv6ojfi6JiA": {
+      "createdAt": "2026-07-16T22:01:44.570Z",
+      "discord": "@claytoncardiall",
+      "farda": true,
+      "fardaEm": "2026-07-17T16:25:32.123Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GASTONE EPPIE",
+      "rank": "RECRUTA",
+      "status": "🔴"
+    }
+  },
+  "geradoEm": "2026-07-20T14:00:22.718Z"
+}
