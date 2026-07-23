@@ -1,0 +1,247 @@
+{
+  "setor": "BPM4",
+  "dataReferencia": "2026-07-22",
+  "dataReferenciaFim": "2026-07-23",
+  "diasCobertos": [
+    {
+      "nome": "QUARTA",
+      "data": "2026-07-22"
+    }
+  ],
+  "periodoLabel": "QUARTA (2026-07-22)",
+  "totalNomes": 25,
+  "totalFotos": 0,
+  "efetivo": {
+    "-Ovn6wWpXi45EWUD_JC7": {
+      "createdAt": "2026-06-23T06:16:51.347Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "ENSON SCOT",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovn6wZdBhMyQDbL1sBH": {
+      "createdAt": "2026-06-23T06:16:51.527Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "DILON NAVARRO",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟡🟢"
+    },
+    "-Ovn6wbSTeZrWNAKagiQ": {
+      "createdAt": "2026-06-23T06:16:51.707Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "EO FELIX",
+      "rank": "CORONEL",
+      "status": "🔴🔴🟢"
+    },
+    "-Ovn6weGhC9v-B5NAPEU": {
+      "createdAt": "2026-06-23T06:16:51.887Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GAUCHO DA FRONTEIRA",
+      "rank": "CORONEL",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovn6wh5waeNrWXC6M8z": {
+      "createdAt": "2026-06-23T06:16:52.068Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DHON WICK",
+      "rank": "CORONEL",
+      "status": "🟢🟢🟡"
+    },
+    "-Ovn6wtJKjowsRCDfsfg": {
+      "createdAt": "2026-06-23T06:16:52.850Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR ABNER",
+      "rank": "CORONEL",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovn6ww7Ks_4oHwWKTkb": {
+      "createdAt": "2026-06-23T06:16:53.030Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "UM HENRIQUE",
+      "rank": "MAJOR",
+      "status": "🟡🟡🟡"
+    },
+    "-Ovn6wywA0PBaQ9ltEtu": {
+      "createdAt": "2026-06-23T06:16:53.210Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GAUCHA MORAESS",
+      "rank": "CAPITÃO",
+      "status": "🟢🔴🔴"
+    },
+    "-Ovn6x9Dxcnb689ZSck8": {
+      "createdAt": "2026-06-23T06:16:53.932Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BOLSONARIO MALVADAO",
+      "rank": "CAPITÃO",
+      "status": "🟢🟡🟡"
+    },
+    "-OvsV-XiperujUm4FdR_": {
+      "createdAt": "2026-06-24T07:20:01.505Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "PRETHINHO PRETO",
+      "rank": "CAPITÃO",
+      "status": "🔴🔴🔴"
+    },
+    "-OvsYVB_LM-cGkFc85eg": {
+      "createdAt": "2026-06-24T07:35:17.591Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "TK SANTS",
+      "rank": "CAPITÃO",
+      "status": "🟢🟡🟡"
+    },
+    "-Ovv79BVwmUfFHhO-yMx": {
+      "createdAt": "2026-06-24T19:34:41.878Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GAUCHO RSRSRS",
+      "rank": "MAJOR",
+      "status": "🟢🟢🟢"
+    },
+    "-Ow1S0EPvl0DZc-JnJqW": {
+      "createdAt": "2026-06-26T05:43:10.090Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRR ANDRE",
+      "rank": "CAPITÃO",
+      "status": "🟡🟡🟢"
+    },
+    "-Ow7SCcIRNXYAoH-Dr6Z": {
+      "adicionadoEm": "2026-06-27T09:41:44.544Z",
+      "createdAt": "2026-06-27T09:41:44.544Z",
+      "discord": "berlim0961",
+      "farda": true,
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRR BERLIM",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢",
+      "turnoOrigem": "BPM4"
+    },
+    "-Ox2hZ-xkReoGXmN84sr": {
+      "createdAt": "2026-07-08T21:50:45.411Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BORGES FERREIRA",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢"
+    },
+    "-Ox2kLakZArhz1r4u1XX": {
+      "createdAt": "2026-07-08T22:02:56.918Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DIEGO HARIEL",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢"
+    },
+    "-OxDXdz7gZkuVQb0vLbt": {
+      "createdAt": "2026-07-11T00:18:55.379Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "BELARDINHO SANTANA",
+      "rank": "SARGENTO",
+      "status": "🔴🔴"
+    },
+    "-OxDZxaGkJn3EpgrGf-2": {
+      "createdAt": "2026-07-11T00:29:00.143Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "GABRIEL ALVESP",
+      "rank": "CAPITÃO",
+      "status": "🔴🔴🔴"
+    },
+    "-OxbjKxkqIL9Ei-aD3ap": {
+      "createdAt": "2026-07-15T21:44:54.502Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "TORRE ZAFRINE",
+      "rank": "TENENTE",
+      "status": "🟢🟢🟢"
+    },
+    "-Oxbl7PvW7I3JO0MZAPj": {
+      "createdAt": "2026-07-15T21:52:43.313Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SGT CAVALCANTE",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟡🟡"
+    },
+    "-OxbmdEMAm5sJybQXtPc": {
+      "createdAt": "2026-07-15T21:59:19.885Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "KYE HEINRICH",
+      "rank": "SARGENTO",
+      "status": "🟡🟡🟢"
+    },
+    "-OxmaksJDk-w6tZDPwB_": {
+      "createdAt": "2026-07-18T00:23:13.296Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "promovidoSgtMorEm": "2026-07-19T23:21:38.622Z",
+      "qra": "DUGLAS WONG",
+      "rank": "TENENTE",
+      "status": "🟢🟢🟢"
+    },
+    "-OxwhvgA5RPbFoCT8zLk": {
+      "createdAt": "2026-07-19T23:30:50.069Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANTONY HOWARD",
+      "rank": "SARGENTO",
+      "status": "🟡🟢🟢"
+    },
+    "-Oxwi6drIMmZzrfyhFhs": {
+      "createdAt": "2026-07-19T23:31:39.072Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "DANILO ARTIS",
+      "rank": "SARGENTO",
+      "status": "🟢🟡"
+    },
+    "-OyBAOQVG22L_ppxpnY6": {
+      "createdAt": "2026-07-22T23:33:47.901Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANNA ESPANCAMACHO",
+      "rank": "SARGENTO",
+      "status": "🟡🟢🟢"
+    }
+  },
+  "geradoEm": "2026-07-23T16:10:20.399Z"
+}
