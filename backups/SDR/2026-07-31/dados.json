@@ -1,0 +1,63 @@
+{
+  "setor": "SDR",
+  "dataReferencia": "2026-07-31",
+  "dataReferenciaFim": "2026-08-01",
+  "diasCobertos": [
+    {
+      "nome": "SEXTA",
+      "data": "2026-07-31"
+    }
+  ],
+  "periodoLabel": "SEXTA (2026-07-31)",
+  "totalNomes": 5,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmhmoMoytqtGoHXC40": {
+      "createdAt": "2026-06-23T04:22:33.254Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANNA REIS",
+      "rank": "MAJOR",
+      "status": "🟢🟢🟢"
+    },
+    "-Ovmho3bPNbREw_FMPMS": {
+      "createdAt": "2026-06-23T04:22:38.390Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SRTA SANTORINI",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢"
+    },
+    "-OvmxuTtqXDqiHFX14cS": {
+      "createdAt": "2026-06-23T05:33:03.864Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SR SANTORINI",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OwM5J1V1mKFDnCA3e73": {
+      "createdAt": "2026-06-30T05:55:58.766Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "VINCENZO BOLAT",
+      "rank": "MAJOR",
+      "status": "🟢🟢🟢"
+    },
+    "-OxumnDd17AF7nT1BEBb": {
+      "createdAt": "2026-07-19T14:32:45.262Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "promovidoSgtMorEm": "2026-07-25T01:58:07.710Z",
+      "qra": "LARY VIP",
+      "rank": "SARGENTO MOR",
+      "status": "🟢🟢🟢"
+    }
+  },
+  "geradoEm": "2026-08-01T20:50:14.076Z"
+}
