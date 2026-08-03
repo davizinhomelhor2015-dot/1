@@ -1,0 +1,96 @@
+{
+  "setor": "DIP",
+  "dataReferencia": "2026-08-02",
+  "dataReferenciaFim": "2026-08-03",
+  "diasCobertos": [
+    {
+      "nome": "DOMINGO",
+      "data": "2026-08-02"
+    }
+  ],
+  "periodoLabel": "DOMINGO (2026-08-02)",
+  "totalNomes": 8,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmgoRkWD21lFohyZ2Z": {
+      "createdAt": "2026-06-23T04:18:17.791Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Professora Alessia",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OxxVABRF2E3Ip1cmEQY": {
+      "createdAt": "2026-07-20T03:10:13.757Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Sra Bass",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-OxxVIYvgthr3wl1yF5-": {
+      "createdAt": "2026-07-20T03:10:48.029Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Srta Nathy",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢🟢"
+    },
+    "-Oy0XJSpsB3B53ojvmwE": {
+      "createdAt": "2026-07-20T21:58:05.032Z",
+      "discord": "@mauriciobrendo",
+      "farda": true,
+      "fardaEm": "2026-07-22T19:23:50.797Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Dante Ponpetone",
+      "rank": "1°SARGENTO",
+      "status": "🟢🟢🟢"
+    },
+    "-OyMBRXxjUw1ETo2c9cm": {
+      "createdAt": "2026-07-25T02:54:10.227Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Sr Bass",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢🟢",
+      "transferidoDe": "PRF"
+    },
+    "-OyyrjxDBtoodJGK27Nv": {
+      "createdAt": "2026-08-01T19:48:33.305Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Gabriiel Santana",
+      "rank": "MAJOR",
+      "status": "🟢🟢"
+    },
+    "-Oz3z90YbpGTJshCB-ii": {
+      "createdAt": "2026-08-03T00:18:38.284Z",
+      "discord": "bbxvision",
+      "farda": true,
+      "fardaEm": "2026-08-03T00:22:01.394Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "Sra Scarlet",
+      "rank": "RECRUTA",
+      "status": "🟢🟢🔴"
+    },
+    "-Oz4AVc2dC2IZH8sSnvL": {
+      "createdAt": "2026-08-03T01:12:36.652Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Sr Tetiinha",
+      "rank": "SARGENTO",
+      "status": "🟢🟢🟢"
+    }
+  },
+  "geradoEm": "2026-08-03T14:00:25.214Z"
+}
