@@ -1,0 +1,109 @@
+{
+  "setor": "SDR",
+  "dataReferencia": "2026-08-05",
+  "dataReferenciaFim": "2026-08-06",
+  "diasCobertos": [
+    {
+      "nome": "QUARTA",
+      "data": "2026-08-05"
+    }
+  ],
+  "periodoLabel": "QUARTA (2026-08-05)",
+  "totalNomes": 9,
+  "totalFotos": 0,
+  "efetivo": {
+    "-OvmhmoMoytqtGoHXC40": {
+      "createdAt": "2026-06-23T04:22:33.254Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "ANNA REIS",
+      "rank": "CORONEL",
+      "status": "🟢🟢"
+    },
+    "-Ovmho3bPNbREw_FMPMS": {
+      "createdAt": "2026-06-23T04:22:38.390Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "SRTA SANTORINI",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢"
+    },
+    "-OvmxuTtqXDqiHFX14cS": {
+      "createdAt": "2026-06-23T05:33:03.864Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "SR SANTORINI",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢"
+    },
+    "-OwM5J1V1mKFDnCA3e73": {
+      "createdAt": "2026-06-30T05:55:58.766Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "VINCENZO BOLAT",
+      "rank": "MAJOR",
+      "status": "🟢🟢"
+    },
+    "-OxumnDd17AF7nT1BEBb": {
+      "createdAt": "2026-07-19T14:32:45.262Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "promovidoProvaEm": "2026-08-02T20:08:58.018Z",
+      "promovidoProvaTipo": "ten",
+      "promovidoSgtMorEm": "2026-07-25T01:58:07.710Z",
+      "qra": "LARY VIP",
+      "rank": "TENENTE",
+      "status": "🟢🟢"
+    },
+    "-Oz1_xFVJlaHEnfWNh_v": {
+      "createdAt": "2026-08-02T13:09:18.175Z",
+      "ferias": false,
+      "lider": true,
+      "promo": false,
+      "qra": "EO ZAGOO",
+      "rank": "MAJOR GENERAL",
+      "status": "🟢🟢"
+    },
+    "-Oz3jHdMIjLr6wiVzvMB": {
+      "createdAt": "2026-08-02T23:09:19.026Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "LUCASSILVA PRIMEIRO",
+      "rank": "CAPITÃO",
+      "status": "🟢🟢",
+      "transferidoDe": "PRF"
+    },
+    "-Oz9RAIy8yvZ9yAwkxA_": {
+      "createdAt": "2026-08-04T01:43:31.931Z",
+      "discord": "tokio085987",
+      "farda": true,
+      "fardaEm": "2026-08-04T17:46:08.269Z",
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "Nix Davila",
+      "rank": "RECRUTA",
+      "status": "🟢🟢"
+    },
+    "-OzJVoOKd_KMskv8saYH": {
+      "adicionadoEm": "2026-08-06T00:40:00.954Z",
+      "createdAt": "2026-08-06T00:40:00.954Z",
+      "discord": "alwaro0396",
+      "farda": false,
+      "ferias": false,
+      "lider": false,
+      "promo": false,
+      "qra": "SEGURANÇA PHZIN",
+      "rank": "RECRUTA",
+      "status": "🟢🟢",
+      "turnoOrigem": "SDR"
+    }
+  },
+  "geradoEm": "2026-08-06T21:29:04.517Z"
+}
