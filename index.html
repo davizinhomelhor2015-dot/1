@@ -1881,6 +1881,7 @@ input[type=search]::-webkit-search-cancel-button { cursor: pointer; }
       <div class="nav-section-label" id="nav-ac-section" style="display:none">🎖️ Alto Comando</div>
       <button class="nav-item" data-view="alto-comando" id="nav-alto-comando-btn" style="display:none"><i>👑</i>Painel Alto Comando<span class="nav-badge nb-gold" id="nb-ac"></span></button>
       <button class="nav-item" data-view="presenca-geral" id="nav-presenca-geral-btn" style="display:none"><i>📊</i>Presença Geral</button>
+      <button class="nav-item" id="nav-dp-prova-btn" style="display:none" onclick="abrirDPProva()"><i>🎯</i>DP Prova Major General<span style="margin-left:auto;font-size:.7rem;opacity:.5">↗</span></button>
       <div class="nav-section-label" id="nav-provas-section" style="display:none">Provas</div>
       <button class="nav-item" data-view="provas" id="nav-provas-btn" style="display:none"><i>📝</i>Provas de Patente<span class="nav-badge nb-gold" id="nb-provas"></span></button>
       <div class="nav-section-label">Recrutamento &amp; Movimentos</div>
@@ -3720,6 +3721,7 @@ function mostrarApp(){
   if(_acs)_acs.style.display=_adm?"":"none";
   if(_acb)_acb.style.display=_adm?"":"none";
   const _pgb=g("nav-presenca-geral-btn"); if(_pgb)_pgb.style.display=_adm?"":"none";
+  const _dpp=g("nav-dp-prova-btn"); if(_dpp)_dpp.style.display=_adm?"":"none";
 
   // Aba Entrega de Farda: visível SOMENTE para admin
   // Aba Entrega de Farda: SOMENTE ADMIN vê e usa. A liderança recebe a
@@ -5331,9 +5333,15 @@ function updateNavBadges(){
   const ps=g("nav-provas-section"),pb=g("nav-provas-btn");
   if(ps)ps.style.display=adm?"":"none";
   if(pb)pb.style.display=adm?"":"none";
+  const dpp=g("nav-dp-prova-btn"); if(dpp)dpp.style.display=adm?"":"none";
   // Botão SGT-MOR: atualizado aqui também para garantir que DIP vê mesmo após login tardio
   const _sgtmBtn=g("nav-sgtm-btn");
   if(_sgtmBtn) _sgtmBtn.style.display=(adm||getSessionUnidade()==="DIP")?"":"none";
+}
+
+// ── DP PROVA MAJOR GENERAL (link externo — Alto Comando) ──
+function abrirDPProva(){
+  window.open("https://prova-theta-flax.vercel.app/", "_blank", "noopener");
 }
 
 // ── Status helpers ────────────────────────────────────────────────
